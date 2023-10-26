@@ -8,7 +8,7 @@ assessment and intervention. NLP encompasses the use of computational techniques
 and interpret human language, enabling the extraction of valuable insights from large volumes of
 textual data.
 
-#Dataset
+# Dataset
 The dataset is a collection of posts from the "Depression" and "SuicideWatch"
 subreddits of the Reddit platform. The posts are collected using Pushshift API. All
 posts that were made to "SuicideWatch" from Dec 16, 2008(creation) till Jan 2,
